@@ -1,4 +1,4 @@
-# sport-analytics-capstone
+# Projecting College Football Player Performance in the age of NIL and the Transfer Portal
 Project repository for the SMGT490: Sport Analytics Capstone class. 
 
 In the modern era of Name, Image, and Likeness (NIL) and the college football transfer
