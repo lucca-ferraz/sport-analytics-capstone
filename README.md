@@ -18,7 +18,7 @@ performance via leave-one-season-out cross-validation.
 
 Our results demonstrate that model performance varies by position, with running back,
 linebacker, and defensive line projections performing better using Random Forest, while
-other positions performed better using XGBoost.. While projections remain challenging due
+other positions performed better using XGBoost. While projections remain challenging due
 to role heterogeneity and limited sample sizes, the proposed framework offers competitive
 predictive accuracy relative to existing benchmarks and provides interpretable insights into
 the drivers of player success.
